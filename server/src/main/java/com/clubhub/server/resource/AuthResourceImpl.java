@@ -1,4 +1,5 @@
-package com.clubhub.resource;
+package com.clubhub.server.resource;
+import com.clubhub.client.resource.AuthResource;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Inject;

@@ -1,4 +1,4 @@
-package com.clubhub.resource;
+package com.clubhub.client.resource;
 
 import java.util.UUID;
 
